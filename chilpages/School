@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>My Life at Queen E</title>
+    <meta name="author" content="Abdullahi Osman">
+    <meta name="description" content="My Life at Queen E"> <!--Webpage Description -->
+    <meta name="keywords" content="Learning, Life, Social, Friends, School, Clubs, Queen Elizabeth Highschool, Queen E">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style/style.css">
+
+  </head>
+
+  <body>
+    <div class="header"><header><h1>My Life at Queen E</h1></header></div>
+
+
+    <div class= "border">
+        <aside>
+          <p class= "center">
+            .・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・..。・.
+          </p>
+        </aside>
+    </div>
+
+<!-------------------------------------------->
+
+<div class="nan">
+
+<p>My favourite solving.</p>
+<iframe width="225" height="180" src="https://www.youtube.com/watch?v=psuRGfAaju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--date accessed 20211014-->
+
+<p><a href="https://www.google.com/search?q=queen+elizabeth+high+school+logo&tbm=isch&ved=2ahUKEwj_9quSlan2AhU0LDQIHXN4CkUQ2-cCegQIABAA&oq=queen+elizabeth+high+school+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQ6BwgjEO8DECc6BAgAEEM6BAgAEBhQ2gpY0RNg8yBoAHAAeACAAYoBiAGUBJIBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=LEwgYv-wArTY0PEP8_CpqAQ&bih=887&biw=1920#imgrc=_cRbeovJebFVxM" target="_blank">
+<img src="https://static.hudl.com/users/prod/15694120_07583797104c42b5a9796c4c04b768a1.jpg" alt="this is an image of the Queen Elizabeth Highschool logo." title="Queen E Logo" style="max-width:100%;height:auto;">
+</p></a>
+
+</div>
+
+
+
+<!---------------------------------------------------------->
+
+    <div class="exacar">
+
+    <p style="font-size:1.1vw;">Since I've only been in Edmonton for a few months, my social and school life here is definitely developing. I already have a few friends here! In fact, they are in the same class as me.
+      Their names are Abdirahman, ayub, and Kolby :) This is really big for me, after being in live abroad (for almost 14 years), it's not only really upsetting to leave my friends in kenya behind, but it's also really
+      hard to make new friends since I've never learn social skills.
+      In my hometown, I've always had a large friend group and was home at 9-10pm every night before school (dugsi). My graduating class (class 8 in Kenya) was ~70 kids,
+      so everyone knew everyone. Coming to such a large school with my graduating class ~1000 is not new to me. There's kind of a sense of anonymity among my peers, particularly because I'm new here and nobody really knows who I am yet.
+      I have always held my grades to a good regard, achieving low to high 80 on a regular basis. One of the biggest shocks I had coming to EPS was that 80> is considered an A,, and that 50< is considered a fail. Another shocker was that classes have <i>exams</i> before the final. In here, for Social Studies we would mostly have to do essays or projects with the odd exam here and there about some historical event.
+      As for English, I have never done an English exam before the end of the year or semester.
+      I enjoy Science and Math - my favourite subjects. There's something about finally solving the answer to a difficult math problem or studying an interesting chemical reaction or doing lap will always get me excited.  As for Computer class,
+      This is my first computer class- we never code or learn computer in Kenya because they can't afford that. I really hope people in my hometown (Kenya) has the opportunity to learn Computer Science.
+      Some of the activities I do outside of school are:</p>
+      <ul style="font-size:1vw;">
+        <li>Go to the Library.</li>
+          <li>research about careers.</li>
+              <li>Spend time with my family. </li>
+                  <li>I also play games online with my friends back at home when I get the chance to.</li>
+      </ul>
+</div>
+
+class="footer background border"><footer>
+  <!-- Date Accessed: 20220302-->
+"https://c.tenor.com/Wq-MvpjAJksAAAAM/emojilaugh-emoji.gif" alt="this is a gif of Smiling face." title="Smiling face - Abdullahi Osman" style="max-width:109%;height:auto;" class="center">
+
+  </body>
+<!------------------------------------------------->
+  <footer><div class='border'>
+        <!-- date accessed 20220302 -->
+
+        <body>
+    <footer>
+      <blockquote cite="https://everydaypower.com/quotes-about-education/">
+      <!-- Date Accessed: 20220204 -->
+      <p><strong>Education is the passport to the future, for tomorrow belongs to those who prepare for it today.</strong></p>
+      <p>
+       <em>
+        <a href="https://everydaypower.com/quotes-about-education/">
+          Malcom X
+        </a>
+      </em>
+    </p>
+    <p>
+      &copy Abdullahi Osman, powered by abdullahi2022 in GitHub
+    </p>
+  </footer>
+  </html>
